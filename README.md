@@ -1,3 +1,4 @@
 # Surface-Pro-7-EasyEffects
-EasyEffectsのSurface Por7用プリセットです。
+EasyEffectsのSurface Pro7用プリセットです。
+
 イコライザとかまとめてあります。
